@@ -1,0 +1,4 @@
+rootProject.name = "WTTest"
+include ':app'
+include ':wt-ijkplayer-android'
+include ':easyPhotos'
